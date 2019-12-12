@@ -1,0 +1,72 @@
+#header {
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    text-shadow: 3px 3px aquamarine;
+}
+
+#canvas {
+    border: 2px solid black;
+    margin-top: 135px;
+    width: 1000px;
+    height: 500px;
+    background-color: aquamarine;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+
+}
+
+body {
+    margin: 0;
+    background-color: deepskyblue;
+}
+
+#safe {
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+#inst {
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+#instructions {
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+/* button {
+    position: absolute;
+    top: 200px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: fantasy;
+    margin: 10px;
+    color: #3498db;
+    transition: .8s;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    margin-left: 900px;
+}
+
+button:hover {
+    color: blueviolet;
+    background-color: aquamarine;
+    transition: 0.8s;
+}
+*/
